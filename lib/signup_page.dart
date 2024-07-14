@@ -5,6 +5,7 @@ import 'package:project_2/signin_page.dart';
 import 'root_page.dart';
 import 'constants.dart';
 
+//frr
 class SignUp extends StatefulWidget {
   const SignUp({Key? key}) : super(key: key);
 
